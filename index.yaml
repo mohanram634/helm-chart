@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mohanapp:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-10-07T06:37:18.010473646Z"
+    description: myfirst custom chart
+    digest: 072972ad9df947b8e8572cba9dffb16ab83f4892850003d7f041e04fe7575836
+    name: mohanapp
+    urls:
+    - https://mohanram634.github.io/helm-chart/mohanapp-0.3.0.tgz
+    version: 0.3.0
+generated: "2021-10-07T06:37:18.006952675Z"
